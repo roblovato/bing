@@ -1,4 +1,0 @@
-bing
-====
-
-Bing subscription center
